@@ -1,0 +1,16 @@
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.exe
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.deps.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.runtimeconfig.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.runtimeconfig.dev.json
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\ref\Desafio_game_RPG.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\bin\Debug\net5.0\Desafio_game_RPG.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\ref\Desafio_game_RPG.dll
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.pdb
+C:\Users\GAMER\Desktop\Desafio Dio\Desafio_game_RPG\obj\Debug\net5.0\Desafio_game_RPG.genruntimeconfig.cache
